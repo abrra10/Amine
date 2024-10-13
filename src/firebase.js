@@ -4,12 +4,12 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDZlXpN4DPPX6PkntTv7W8WXaIRykWesBY",
-  authDomain: "portfolio-af7b5.firebaseapp.com",
-  projectId: "portfolio-af7b5",
-  storageBucket: "portfolio-af7b5.appspot.com",
-  messagingSenderId: "1036493271477",
-  appId: "1:1036493271477:web:d8c7b58c1fa321e991a9fc",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
